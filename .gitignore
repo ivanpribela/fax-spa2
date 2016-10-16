@@ -1,0 +1,14 @@
+# Compiled binaries
+/bin/
+*.class
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Linux specific
+*~
+
+# OS X specific
+.DS_Store
+._*
